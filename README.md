@@ -5,3 +5,5 @@ b- business
 m-health
 t- technology
 e- entertainment
+
+The dataset is taken from : http://archive.ics.uci.edu/ml/datasets/News+Aggregator
